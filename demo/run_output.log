@@ -1,0 +1,25 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------------< [0;36mcom.example:demo[0;1m >--------------------------[m
+[[1;34mINFO[m] [1mBuilding demo 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:3.1.0:java[m [1m(default-cli)[m @ [36mdemo[0;1m ---[m
+09:38:30.981 [com.example.demo.WebFormAutomation.main()] INFO io.github.bonigarcia.wdm.WebDriverManager -- Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+09:38:30.999 [com.example.demo.WebFormAutomation.main()] INFO io.github.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /root/.cache/selenium/chromedriver/linux64/137.0.7151.119/chromedriver
+Resolved HTML path: file:/home/coder/Workspace/demo/src/main/resources/web-form.html
+Jun 27, 2025 9:38:31 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 137
+Jun 27, 2025 9:38:31 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 137.0.7151.119. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.19.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+WebDriver initialized.
+Opened: file:/home/coder/Workspace/demo/src/main/resources/web-form.html
+Entered full name.
+Entered email.
+Entered password.
+Entered comments.
+Clicked the submit button.
+
+✅ Form automation completed successfully.
+WebDriver closed.
+[0m[0m
