@@ -9,11 +9,12 @@
 [[1;34mINFO[m] Copying 1 resource from src/main/resources to target/classes
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.13.0:compile[m [1m(default-compile)[m @ [36mdemo[0;1m ---[m
-[[1;34mINFO[m] Nothing to compile - all classes are up to date.
+[[1;34mINFO[m] Recompiling the module because of [1mchanged source code[m.
+[[1;34mINFO[m] Compiling 1 source file with javac [debug parameters release 17] to target/classes
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;32mBUILD SUCCESS[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  0.677 s
-[[1;34mINFO[m] Finished at: 2025-06-27T09:39:22Z
+[[1;34mINFO[m] Total time:  1.434 s
+[[1;34mINFO[m] Finished at: 2025-06-27T09:41:11Z
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [0m[0m
